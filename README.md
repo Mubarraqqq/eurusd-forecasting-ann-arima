@@ -79,6 +79,10 @@ The dataset consists of **hourly EUR/USD exchange rate data** sourced from **Met
 
 ---
 
+## ⚠️ Disclaimer:
+This analysis was limited by computational constraints, allowing only 8 features to be used out of a potential 122 that could be derived through domain knowledge and advanced feature engineering. As such, the model lacks the complexity and generalization required for real-world deployment. This study is strictly for educational purposes and should not be used for commercial decisions. Users bear full responsibility for any actions taken based on this analysis.
+
+
 ## 📚 Reference
 
 Onipede, M., Abiamamela, O., & Olorunsola, J. (2024). _A Comparative Analysis of Machine Learning Algorithms for USD/EUR Foreign Exchange Rate Forecasting_, IRE Journals, Vol 8, Issue 6.  
@@ -88,11 +92,4 @@ Onipede, M., Abiamamela, O., & Olorunsola, J. (2024). _A Comparative Analysis of
 ## Datasets
 
 For evaluation and improvement, datasets can be provided upon request.
-
-## 🚀 Getting Started
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/yourusername/eurusd-forecasting-ann-arima.git
-   cd eurusd-forecasting-ann-arima
 
